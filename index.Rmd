@@ -1,5 +1,5 @@
 --- 
-title: "A GitBook Example for Teaching"
+title: "Useful Knowledge"
 author: "[dr. Caspar J. van Lissa](https://www.uu.nl/staff/CJvanLissa)"
 date: "`r Sys.Date()`"
 description: This GitBook is an example of a GitBook for teaching. It can be 
